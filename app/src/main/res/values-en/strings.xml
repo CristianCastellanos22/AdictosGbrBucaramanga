@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bienvenidoLogin">WELCOME</string>
+    <string name="bienvenidoLogin2">A la base de datos de Adictos Gbr bucaramanga</string>
+    <string name="textLogin">Inicie sesión con:</string>
+    <string name="inicio">Start</string>
+    <string name="nameWel">Nombre</string>
+    <string name="session">Iniciaste sesión como:</string>
+    <string name="push">Preciona en la imagen para acceder a la información</string>
+    <string name="textButtonWel">Cerrar Sesión</string>
+    <string name="infoUser">Información de usuario</string>
+    <string name="copyR">Gonobikerreas es una marca registrada ®</string>
+    <string name="authori">Queda Prohibido El Uso Sin Su Respectiva Autorización</string>
+    <string name="all">Todos los derechos reservados ®</string>
+    <string name="Información">Información</string>
+    <string name="datos">Datos Piloto</string>
+    <string name="moto">Datos Moto</string>
+    <string name="contac">Datos Contacto</string>
+    <string name="botonImg">Seleccione imagen de perfil</string>
+    <string name="estadoSp">Seleccione Estado</string>
+    <string name="crear">Guardar Piloto</string>
+    <string name="crearP">Crear Piloto</string>
+</resources>

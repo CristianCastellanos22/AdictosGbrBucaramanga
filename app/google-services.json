@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "530724008485",
+    "firebase_url": "https://datos-agbr-bucaramanga.firebaseio.com",
+    "project_id": "datos-agbr-bucaramanga",
+    "storage_bucket": "datos-agbr-bucaramanga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530724008485:android:cb9ac85f77e730fb",
+        "android_client_info": {
+          "package_name": "com.example.christianxavier.adictosgbrbucaramanga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530724008485-594s49ucinufqm50bq8tr7m8mj3cbgnp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.christianxavier.adictosgbrbucaramanga",
+            "certificate_hash": "29a733c896943fdf3544c60a93861c1dbbcddb2e"
+          }
+        },
+        {
+          "client_id": "530724008485-fej3n9d26h3hvfnu25montdadc0k176v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBelWTjoUYSxj4bI5NfKvNip2xdThuXPLk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530724008485-fej3n9d26h3hvfnu25montdadc0k176v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
